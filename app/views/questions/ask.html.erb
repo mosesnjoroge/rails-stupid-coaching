@@ -1,4 +1,11 @@
-<form action="/answer" data-turbo="false">
-  <input type="text" name="answer" placeholder="ask the coach a question">
-  <input type="submit" value="Ask!">
-</form>
+<div class="row row-cols-lg-auto g-3 align-items-center">
+  <div class="text-center">
+    <h1>Enter your question:</h1>
+  </div>
+  <div class="text-center">
+    <form action="/answer"  method="get">
+      <input type="text" name="question" placeholder="ask the coach a question">
+      <input type="submit" value="Ask!">
+    </form>
+  </div>
+</div>

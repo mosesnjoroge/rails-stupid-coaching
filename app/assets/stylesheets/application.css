@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+body {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 300px;
+}
+
+/* .question-box {
+  width: 350px;
+  padding-top: 50px;
+} */
