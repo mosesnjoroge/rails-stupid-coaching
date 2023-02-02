@@ -7,10 +7,10 @@ A simple rails app, where you interact with a virtual coach
 Please open an issue first
 to discuss what you would like to change.
 
-* Ruby version
+## Ruby version
 3.2.0
 
-* System dependencies
+## System dependencies
 Nodejs 16
 * Package Manager 
 yarn v. 1.0.1
