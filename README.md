@@ -1,24 +1,16 @@
-# README
+# Stupid Coaching
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple rails app, where you interact with a virtual coach
 
-Things you may want to cover:
+## Contributing
+
+Please open an issue first
+to discuss what you would like to change.
 
 * Ruby version
+3.2.0
 
 * System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Nodejs 16
+* Package Manager 
+yarn v. 1.0.1
